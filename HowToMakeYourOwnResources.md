@@ -1,8 +1,6 @@
-This revised guide streamlines the language for clarity while keeping the tone encouraging. It also adds a new section on simple hosting options suitable for teachers.
-
----
-
 # How to Create Your Own Interactive Classroom Resources with AI
+
+[Back to list of activities](README.md)
 
 Thanks to recent leaps in technology, you can now create interactive digital resources—like simulations, quizzes, and games—in the same amount of time it takes to make a standard worksheet.
 
